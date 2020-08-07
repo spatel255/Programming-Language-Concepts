@@ -4,7 +4,7 @@ Describing Semantics
 Lexical Analysis and Parsing
 Lambda Calculus
 Scala
-
+ 
 Course Objective: To introduce the student to the fundamental concepts and principles underlying high level computer programming languages.
 
 Topics to be covered:
